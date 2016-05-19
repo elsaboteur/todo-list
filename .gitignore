@@ -1,0 +1,5 @@
+#3rd version req's
+
+.displayTodos show .todoText
+.displayTodos tells if todos is empty
+.displayTodos shows .completed
