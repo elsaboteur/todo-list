@@ -3,3 +3,7 @@
 .displayTodos show .todoText
 .displayTodos tells if todos is empty
 .displayTodos shows .completed
+
+#4th version
+
+Add a toggleAll function
