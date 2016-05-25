@@ -1,9 +1,13 @@
-#3rd version req's
-
+3rd version req's
 .displayTodos show .todoText
 .displayTodos tells if todos is empty
 .displayTodos shows .completed
 
-#4th version
-
+4th version
 Add a toggleAll function
+
+5th version - adding UI
+There should be a display todo and toggle all button
+Connect these buttons to their functions
+
+6th version - handlers object
